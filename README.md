@@ -7,7 +7,7 @@ For my project, I will use the game of snake in order to better understand reinf
 ## Project Goals
 Given the team aspect of the project, I designed my goals to make parallelization of work as easy as possible. Once the MVP is completed, we can break our team up into smaller parts so that everyone can explore what they are most interested in while also getting exposure to what others on the team are working on. Thus, the extensions described below should change based on what group members are most interested in investigating!
 
-### MVP: Learn to play snake
+### MVP: Learn to Play Snake
 For the MVP of this project, I'd like to have a working program that can simulate millions of snake games. These simulations can be used by the Reinforcement Learning algorithm to improve the player's strategy. We should observe that with more training, the player's strategy improves. 
 
 There are plenty of resources that we can use to complete this stage of the project. We could build the game from scratch or simply import an already [functioning version of the game](https://github.com/codebasics/python_projects/tree/main/1_snake_game). There even exist [step-by-step tutorials](https://towardsdatascience.com/how-to-teach-an-ai-to-play-games-deep-reinforcement-learning-28f9b920440a) for training NN's to play snake. Given these resources, my hope is to spend relatively little time on our MVP so that we can move onto the more exciting extensions of the project
@@ -27,5 +27,5 @@ For this extension, I'd like to first modify the snake game to enable multiple s
 
 Each modification represents a change in incentives that encourage the snakes to work together rather than compete. It would be interesting to see how quickly the snakes are able to learn to develop these collaborative behaviors. This is especially interesting when considering the contexts of evolution and brain development!
 
-### Extension 3: Other Game Modifications
+### Extension 3: Game Modifications
 Since the MVP shouldn't take too long, there's a  lot of opportunity to see how the NN learns when we modify the game. Maybe somebody on the team is interested in creating different room shapes. Maybe somebody wants to add power-ups and bombs. Maybe we want to experiment with a time limit. The simplicity of snake leaves lots of room for exploration!
