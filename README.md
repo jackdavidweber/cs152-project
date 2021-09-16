@@ -35,4 +35,4 @@ Since the MVP shouldn't take too long, there's a  lot of opportunity to see how 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9AoPJ3yd4zr8dhaaOJ5BvF5DRpechDAWD1zUxUHqZuIJYGLDaUXhlSh2EsOAlx-d-VMdHmprry_5o/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-(Feedback / Interest Form)[https://forms.gle/misQDvc8qELpxUdZ7]
+[Feedback / Interest Form](https://forms.gle/misQDvc8qELpxUdZ7)
