@@ -1,8 +1,6 @@
 # BioSnake
 
 ![Retro Snake](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNEnvrWhM_FinzK4yn6n4ROQPM4zX4s8UoAMQYFhLKMRWj2RI3Hd6X3pjMb2OjuKBitN4&usqp=CAU)
-![SnakeGif](https://github.com/jackdavidweber/cs152-project/blob/main/snake_training.gif?raw=true)
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9AoPJ3yd4zr8dhaaOJ5BvF5DRpechDAWD1zUxUHqZuIJYGLDaUXhlSh2EsOAlx-d-VMdHmprry_5o/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## Project Description
 For my project, I will use the game of snake in order to better understand reinforcement learning, genetic algorithms, and collaboration.
@@ -32,3 +30,6 @@ Each modification represents a change in incentives that encourage the snakes to
 
 ### Extension 3: Game Modifications
 Since the MVP shouldn't take too long, there's a  lot of opportunity to see how the NN learns when we modify the game. Maybe somebody on the team is interested in creating different room shapes. Maybe somebody wants to add power-ups and bombs. Maybe we want to experiment with a time limit. The simplicity of snake leaves lots of room for exploration!
+
+## Pitch
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9AoPJ3yd4zr8dhaaOJ5BvF5DRpechDAWD1zUxUHqZuIJYGLDaUXhlSh2EsOAlx-d-VMdHmprry_5o/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
